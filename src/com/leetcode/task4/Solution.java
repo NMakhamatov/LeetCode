@@ -3,6 +3,7 @@ package com.leetcode.task4;
 import java.util.Arrays;
 
 //Median of Two Sorted Arrays
+//not accepted
 public class Solution {
     public static void main(String[] args) {
         int[] a = new int[] {1,5,100};
